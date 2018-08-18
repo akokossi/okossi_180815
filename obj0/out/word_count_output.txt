@@ -1,0 +1,21 @@
+WORD                           COUNT
+====================================
+quorum-enterprise-blockchain                                1
+a                                2
+demo                                1
+on                                1
+of                                1
+ethereum                                1
+jp                                1
+based                                1
+blockchain                                1
+by                                1
+quorum                                1
+built                                1
+morgan                                1
+private                                1
+chase                                1
+=====================================
+
+
+Total words count=15
