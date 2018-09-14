@@ -1,6 +1,5 @@
-# okossi_180815
-JPM Assignment
-Objective 0.1
+# Test data integrity analysis
+ 
 
 
 Objective 1:  Data Integrity
@@ -10,7 +9,7 @@ This objective is designed to provide you with an opportunity to test the resear
 Objective 1.1: Acquire Source Data
 
 Objective 1.2: Test Selection
-In general, JPMCI performs the dual role of data creation and data analysis. 
+In general, performs the dual role of data creation and data analysis. 
 
 Objective 1.3: Validation
 
